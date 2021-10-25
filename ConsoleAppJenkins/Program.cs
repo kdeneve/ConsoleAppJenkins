@@ -7,6 +7,7 @@ namespace ConsoleAppJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Kurt!");
+            Console.WriteLine("en groepsleden!");
         }
     }
 }

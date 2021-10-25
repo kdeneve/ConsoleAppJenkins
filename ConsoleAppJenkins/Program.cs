@@ -6,7 +6,7 @@ namespace ConsoleAppJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello HoGent!");
+            Console.WriteLine("Hello Kurt!");
         }
     }
 }
